@@ -56,9 +56,9 @@
             <th scope="col">Pic</th>
             <th scope="col" width="30%">Name</th>
             <th scope="col" width="10%">Price</th>
-            <th scope="col" width="20%">Total</th>
+            <th scope="col" width="20%">Quantity</th>
             <th scope="col" width="5%"></th>
-            <th scope="col" width="15%">Total</th>
+            <th scope="col" width="15%">Total Price</th>
           </tr>
         </thead>
         <tbody>
